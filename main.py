@@ -3,7 +3,7 @@ from datetime import datetime
 import message
 
 HOST = 'http://localhost:8085/'
-KEY = 'j0yd4z0'
+KEY = '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'
 START = datetime.now()
 
 
